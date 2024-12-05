@@ -1,5 +1,7 @@
 # README
 
+To install pyshacl, see the [pyshacl](https://github.com/RDFLib/pySHACL?tab=readme-ov-file#installation) repo.
+
 This script validates the data graphs in a directory using shape graphs in another directory.
 
 This script takes in three arguments: the data graph directory, the shapes graph directory, and the directory where the validation reports should be stored.
